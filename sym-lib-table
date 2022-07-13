@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "-orange-pi")(type "KiCad")(uri "${KIPRJMOD}/lib/symbol/orange-pi.kicad_sym")(options "")(descr ""))
+  (lib (name "-xlsemi")(type "KiCad")(uri "${KIPRJMOD}/lib/symbol/xlsemi.kicad_sym")(options "")(descr ""))
+)
