@@ -900,7 +900,7 @@
 
   (no_connect (at 189.23 120.65) (uuid 175d84eb-17ed-4fab-95be-9507dffb9756))
   (no_connect (at 168.91 115.57) (uuid 2bded999-cf8b-4dd5-858d-0578bb458cd4))
-  (no_connect (at 168.91 120.65) (uuid 2bded999-cf8b-4dd5-858d-0578bb458cd4))
+  (no_connect (at 168.91 120.65) (uuid 2bded999-cf8b-4dd5-858d-0578bb458cd5))
   (no_connect (at 83.82 119.38) (uuid 50ff89fa-8f69-4f91-91a0-c47f2a7b820a))
   (no_connect (at 189.23 113.03) (uuid 72189c15-912a-4be8-b7f1-a39f7ebd9079))
   (no_connect (at 106.68 111.76) (uuid 9d87fee0-0517-40a6-a026-838b35310e26))
