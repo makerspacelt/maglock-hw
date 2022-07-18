@@ -1443,7 +1443,7 @@
       (reference "J5") (unit 1) (value "I2C0_128x64") (footprint "-local:oled_i2c_128x64_ssd1306")
     )
     (path "/f9e4e07f-8e97-41f3-b598-dd90ea7355c5/992362ce-5888-4e9c-a551-467f2d4215cb"
-      (reference "J6") (unit 1) (value "USB") (footprint "Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked")
+      (reference "J6") (unit 1) (value "USB") (footprint "-local:USB_A_Wuerth_61400826021_Horizontal_Stacked")
     )
     (path "/b3cf1e82-08d5-40a8-a97a-ff4cd1e25c99/0eba6804-bc26-4dd1-90b8-29421ac9c305"
       (reference "J7") (unit 1) (value "Lock") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal")
