@@ -1346,7 +1346,7 @@
     (property "Datasheet" "http://www.datasheet5.com/pdf-local-2195953" (id 3) (at 170.18 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC Part Number" "C14267" (id 4) (at 179.07 110.49 0)
+    (property "LCSC Part Number" "C84681" (id 4) (at 179.07 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ed4f80f3-ca5e-4dec-baad-94b60ef5aefa))

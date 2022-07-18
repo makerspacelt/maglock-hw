@@ -4975,7 +4975,7 @@
     (property "LCSC Part Number" "C136352" (id 4) (at 81.28 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "WE" "C136352" (id 5) (at 81.28 38.1 0)
+    (property "WE" "" (id 5) (at 81.28 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid eb1d642f-1c6f-4ff3-9d84-036f8791743f))
