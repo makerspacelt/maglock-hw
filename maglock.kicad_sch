@@ -1317,13 +1317,13 @@
       (reference "D12") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/b3cf1e82-08d5-40a8-a97a-ff4cd1e25c99/48e9d22d-e074-47cf-a9f7-f81603ef7a19"
-      (reference "D13") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "D13") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/b3cf1e82-08d5-40a8-a97a-ff4cd1e25c99/1a21e185-352a-4175-bc90-58be530c608f"
-      (reference "D14") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "D14") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/b3cf1e82-08d5-40a8-a97a-ff4cd1e25c99/b115792c-9829-4bae-9797-273a27b9a4a5"
-      (reference "D15") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "D15") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/b3cf1e82-08d5-40a8-a97a-ff4cd1e25c99/2cc9f4dd-a84c-4871-ac93-4565de1ff02f"
       (reference "D16") (unit 1) (value "1N4148WL") (footprint "Diode_SMD:D_SOD-123")
