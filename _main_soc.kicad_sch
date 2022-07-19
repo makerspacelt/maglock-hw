@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "MagLock")
+    (date "2022-07-20")
+    (rev "2.0")
+    (company "makerspace.lt")
+  )
+
   (lib_symbols
     (symbol "-orange-pi:orange-pi-zero" (in_bom no) (on_board yes)
       (property "Reference" "U" (id 0) (at 13.97 36.83 0)

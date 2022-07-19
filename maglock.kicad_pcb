@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "MagLock")
+    (date "2022-07-20")
+    (rev "2.0")
+    (company "makerspace.lt")
+  )
+
   (layers
     (0 "F.Cu" mixed)
     (31 "B.Cu" mixed)
