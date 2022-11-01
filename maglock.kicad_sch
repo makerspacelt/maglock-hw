@@ -1783,19 +1783,19 @@
       (reference "U6") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/b2a8805c-cce8-46e1-a15f-09e2dbdd4214"
-      (reference "U7") (unit 1) (value "XL4001") (footprint "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias")
+      (reference "U7") (unit 1) (value "XL4001") (footprint "-local:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.8x4.1mm_Mask2.8x4.1mm_ThermalVias")
     )
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/6bfe78dd-d083-4d87-b96b-5b86fc80ffab"
-      (reference "U8") (unit 1) (value "XL4001") (footprint "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias")
+      (reference "U8") (unit 1) (value "XL4001") (footprint "-local:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.8x4.1mm_Mask2.8x4.1mm_ThermalVias")
     )
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/4e0bd140-07f5-4f96-a35f-0510c8f505ec"
-      (reference "U9") (unit 1) (value "XL4001") (footprint "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias")
+      (reference "U9") (unit 1) (value "XL4001") (footprint "-local:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.8x4.1mm_Mask2.8x4.1mm_ThermalVias")
     )
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/16eea1d1-b8df-472b-93bf-9fb840b8e06a"
-      (reference "U10") (unit 1) (value "XL4001") (footprint "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias")
+      (reference "U10") (unit 1) (value "XL4001") (footprint "-local:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.8x4.1mm_Mask2.8x4.1mm_ThermalVias")
     )
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/abcd6b49-24be-4645-a9ca-1ec64feb1364"
-      (reference "U11") (unit 1) (value "XL4001") (footprint "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias")
+      (reference "U11") (unit 1) (value "XL4001") (footprint "-local:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.8x4.1mm_Mask2.8x4.1mm_ThermalVias")
     )
     (path "/b3cf1e82-08d5-40a8-a97a-ff4cd1e25c99/fdfe0671-90e9-43b7-bc9c-d0810f0eaabe"
       (reference "XJ7") (unit 1) (value "3pin") (footprint "")

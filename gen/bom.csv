@@ -44,7 +44,7 @@
 "43","USB serial converter, UART, SOIC-16","CH340G","U3","CH340C","SOIC-16_3.9x9.9mm_P1.27mm","1"," ","http://www.datasheet5.com/pdf-local-2195953","C84681",""
 "44","Programmable Resolution 1-Wire Digital Thermometer SOIC-8","DS18B20Z","U4","DS18B20Z","SOIC-8_3.9x4.9mm_P1.27mm","1"," ","http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf","C695837",""
 "45","Very low capacitance ESD protection diode, 2 data-line, SOT-23-6","USBLC6-2SC6","U1,U5,U6","USBLC6-2SC6","SOT-23-6","3"," ","https://datasheet.lcsc.com/lcsc/1811141711_STMicroelectronics-USBLC6-2SC6_C7519.pdf","C7519",""
-"46","","XL4001","U7,U8,U9,U10,U11","XL4001","Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias","5"," ","https://datasheet.lcsc.com/szlcsc/XL4001E1_C73347.pdf","C2988027",""
+"46","","XL4001","U7,U8,U9,U10,U11","XL4001","Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.8x4.1mm_Mask2.8x4.1mm_ThermalVias","5"," ","https://datasheet.lcsc.com/szlcsc/XL4001E1_C73347.pdf","C2988027",""
 "47","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)","Conn_01x04_Male","XJ10","4pin","","1"," ","~","C393014",""
 "48","Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)","Conn_01x01_Female","XJaA1,XJbA1,XJcA1","Conn_02x13_Female_2.54","","3"," ","~","C350298 C52709 C2935974",""
 "49","Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)","Conn_01x02_Male","XSW1,XSW2,XSW3,XSW4","2pin","","4"," ","https://datasheet.lcsc.com/lcsc/1912111437_JILN-JL15EDGK-35002G01_C393013.pdf","C393013",""

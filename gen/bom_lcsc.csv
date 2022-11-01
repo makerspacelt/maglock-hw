@@ -31,7 +31,7 @@
 "1","C84681","CH340C","SOIC-16_3.9x9.9mm_P1.27mm"
 "1","C695837","DS18B20Z","SOIC-8_3.9x4.9mm_P1.27mm"
 "3","C7519","USBLC6-2SC6","SOT-23-6"
-"5","C2988027","XL4001","Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias"
+"5","C2988027","XL4001","Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.8x4.1mm_Mask2.8x4.1mm_ThermalVias"
 "3","C400542","3pin",""
 "1","C393014","4pin",""
 "1","C350298","Conn_02x13_Female_2.54",""
