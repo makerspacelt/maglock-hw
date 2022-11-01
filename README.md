@@ -8,11 +8,17 @@ MagLock is the entrance controller hardware. It features:
 * 4 inputs for normally open switches (for example, doorbell, inside exit button, door position endstops)
 * 100Mbps Ethernet for comunication
 * onboard UART USB adapter for easy debuging
+* onboard DS18B20 1-wire thermometer
 * optional I2C oled screen
 * additional I2C and SPI breakout for expansion
 
 
-Dev NOTE: before commit, run `./kibot.sh` to regenerate documentation, bom, gerbers and other assets.
+### Dev NOTEs
+
+* before commit, run `./kibot.sh` to regenerate documentation, bom, gerbers and other assets.
+* before fixes after release, bump the version including qr code to next odd value
+* before release, bump version including qr code to next even value
+
 
 * [schematics.pdf](gen/schematics.pdf)
 * [pcb.pdf](gen/schematics.pdf)
