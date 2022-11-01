@@ -141,6 +141,7 @@ outputs:
         - 'LCSC Part Number'
         - 'Value'
         - 'Footprint'
+      group_fields: ['LCSC Part Number']
       csv:
         hide_pcb_info: true
         hide_stats_info: true

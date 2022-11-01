@@ -1812,6 +1812,15 @@
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/5bbe5038-838f-425b-8b0c-b8b8d42b1fd5"
       (reference "XJ10") (unit 1) (value "4pin") (footprint "")
     )
+    (path "/05705cd3-a12f-44ff-9d42-b34ea1caee0e/4958a6bc-b857-4b39-8d94-cb5f88aef3ea"
+      (reference "XJaA1") (unit 1) (value "Conn_02x13_Female_2.54") (footprint "")
+    )
+    (path "/05705cd3-a12f-44ff-9d42-b34ea1caee0e/dc1edaf0-acdd-4dd4-bdc7-cd881489870c"
+      (reference "XJbA1") (unit 1) (value "Conn_01x13_Female_2.54") (footprint "")
+    )
+    (path "/05705cd3-a12f-44ff-9d42-b34ea1caee0e/b7fc7c70-4255-45f9-8097-b27b42ecc50a"
+      (reference "XJcA1") (unit 1) (value "Conn_01x03_Female_2.54") (footprint "")
+    )
     (path "/da3ae3d0-2218-4ad3-9221-e8398a61fbc4/24717088-ae05-4ae2-941f-1c14c4f797c3"
       (reference "XSW1") (unit 1) (value "2pin") (footprint "")
     )
