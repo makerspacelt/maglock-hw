@@ -1189,7 +1189,7 @@
       (reference "A1") (unit 1) (value "orange-pi-zero") (footprint "-local:Orange_Pi_Zero_LTS")
     )
     (path "/05705cd3-a12f-44ff-9d42-b34ea1caee0e/fb9c7e30-c4f1-4f12-9d56-b085ddc955f4"
-      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer_Beeper:MagneticBuzzer_CUI_CST-931RP-A")
+      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "-local:MagneticBuzzer_CUI_CST-931RP-A")
     )
     (path "/ac3356b3-e018-4b92-874d-8daeb78609a0/a0154974-2eba-406a-a294-1e7d1380bf15"
       (reference "C1") (unit 1) (value "10u/16v") (footprint "Capacitor_SMD:C_0805_2012Metric")
