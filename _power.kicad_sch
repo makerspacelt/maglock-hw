@@ -2786,7 +2786,7 @@
     (property "Reference" "R44" (id 0) (at 93.98 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100k" (id 1) (at 96.52 49.53 90)
+    (property "Value" "10k" (id 1) (at 96.52 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 98.298 52.07 90)

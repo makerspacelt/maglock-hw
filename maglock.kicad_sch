@@ -1696,7 +1696,7 @@
       (reference "R43") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/0fdeefa7-efef-44ed-9c2d-bc8a10917984"
-      (reference "R44") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R44") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/6aa4c08c-6285-45e7-b12b-3edb7258632f"
       (reference "R45") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
