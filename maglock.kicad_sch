@@ -1345,16 +1345,16 @@
       (reference "D6") (unit 1) (value "BLUE") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/da3ae3d0-2218-4ad3-9221-e8398a61fbc4/960b30bb-736e-4e80-9ec2-3cdd1443003a"
-      (reference "D7") (unit 1) (value "3V3") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D7") (unit 1) (value "10V") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/da3ae3d0-2218-4ad3-9221-e8398a61fbc4/3c60f550-8964-4270-85cc-9f4deb4265fa"
-      (reference "D8") (unit 1) (value "3V3") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D8") (unit 1) (value "10V") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/da3ae3d0-2218-4ad3-9221-e8398a61fbc4/d10fd8f2-7234-4e9f-970c-1322b17f5162"
-      (reference "D9") (unit 1) (value "3V3") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D9") (unit 1) (value "10V") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/da3ae3d0-2218-4ad3-9221-e8398a61fbc4/1d5b685f-0938-4ca6-a6a2-8444812cd081"
-      (reference "D10") (unit 1) (value "3V3") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D10") (unit 1) (value "10V") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/f9e4e07f-8e97-41f3-b598-dd90ea7355c5/b032a741-acd5-4d6c-a23f-d4fa3a3de18a"
       (reference "D11") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -1396,7 +1396,7 @@
       (reference "D23") (unit 1) (value "BLUE") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/00275afd-0005-4207-8e50-40398431f8d2"
-      (reference "D24") (unit 1) (value "3V3") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D24") (unit 1) (value "10V") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/b8d5a98e-b060-43d6-ad53-10403fa9f7ea/8ff4f190-7744-44f1-979c-8533fca186aa"
       (reference "D25") (unit 1) (value "YELLOW") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
