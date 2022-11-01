@@ -30,7 +30,7 @@
 "29","FINDER 36.11, SPDT relay, 10A","FINDER-36.11","K1,K2,K3","5V Relay","Relay_SPDT_Finder_36.11","3"," ","https://datasheet.lcsc.com/lcsc/1912111437_WRG-Wangrong-RD-105D_C224434.pdf","C224434",""
 "30","Inductor","L","L1,L2,L3,L4,L5","47u/2.5A","L_12x12mm_H8mm__D11.0_P5.0_universal","5"," ","https://datasheet.lcsc.com/lcsc/2201121400_SHOU-HAN-CYH127-47UH_C2929503.pdf","C2929503","744770147"
 "31","30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23","AO3400A","Q1,Q2,Q3,Q4","AO3400A","SOT-23","4"," ","https://datasheet.lcsc.com/lcsc/2204291600_UMW-Youtai-Semiconductor-Co---Ltd--AO3400A_C347475.pdf","C347475",""
-"32","P-MOSFET transistor, gate/source/drain","Q_PMOS_GSD","Q5","HYG210P06LQ1D","TO-252-2","1"," ","https://datasheet.lcsc.com/lcsc/2105241400_HUAYI-HYG210P06LQ1D_C2834760.pdf","C2834760",""
+"32","P-MOSFET transistor, gate/drain/source","Q_PMOS_GDS","Q5","HYG210P06LQ1D","TO-252-2","1"," ","~","C2834760",""
 "33","Resistor","R","R11,R15,R17,R19,R21","0","R_0805_2012Metric","5"," ","~","~",""
 "34","Resistor","R","R4,R5,R12,R13,R33,R34,R35","330","R_0805_2012Metric","7"," ","~","~",""
 "35","Resistor","R","R3,R10,R39,R40,R41,R47,R48,R49,R50","1k","R_0805_2012Metric","9"," ","~","~",""
