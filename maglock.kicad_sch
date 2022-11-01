@@ -667,7 +667,7 @@
     (property "Value" "Logo_Open_Hardware_Small" (id 1) (at 55.88 188.595 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Symbol:OSHW-Logo2_9.8x8mm_SilkScreen" (id 2) (at 55.88 182.88 0)
+    (property "Footprint" "Symbol:OSHW-Symbol_6.7x6mm_SilkScreen" (id 2) (at 55.88 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 55.88 182.88 0)
@@ -1549,7 +1549,7 @@
       (reference "LOGO1") (unit 1) (value "logo_kms_small") (footprint "-local:logo_kms_small")
     )
     (path "/639f52c6-dbf2-4d74-80e1-6b05676c5315"
-      (reference "LOGO2") (unit 1) (value "Logo_Open_Hardware_Small") (footprint "Symbol:OSHW-Logo2_9.8x8mm_SilkScreen")
+      (reference "LOGO2") (unit 1) (value "Logo_Open_Hardware_Small") (footprint "Symbol:OSHW-Symbol_6.7x6mm_SilkScreen")
     )
     (path "/05705cd3-a12f-44ff-9d42-b34ea1caee0e/65cb4747-0618-4add-9fe4-125c843180ce"
       (reference "Q1") (unit 1) (value "AO3400A") (footprint "Package_TO_SOT_SMD:SOT-23")
