@@ -17,11 +17,14 @@ MagLock is the entrance controller hardware. It features:
 
 * before commit, run `./kibot.sh` to regenerate documentation, bom, gerbers and other assets.
 * before fixes after release, bump the version including qr code to next odd value
-* before release, bump version including qr code to next even value
+* before release, bump version to next even value on:
+  * every page of schematics and pcb
+  * label on front silkscreen
+  * qr-code link on bottom silkscreen
 
 
 * [schematics.pdf](gen/schematics.pdf)
-* [pcb.pdf](gen/schematics.pdf)
+* [pcb.pdf](gen/pcb.pdf)
 * [ibom.html](gen/bom_ibom.html)
 * [gerbers.zip](gen/gerbers/gerbers.zip)
 
