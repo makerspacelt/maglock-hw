@@ -1,5 +1,4 @@
-<img src="gen/img_pcb_3d_main.png" width=48% align="left" /><img src="media/main.jpg" width=48% />
-
+<img src="media/main.jpg" width=48%  align="left"/><img src="gen/img_pcb_3d_main.png" width=48% />
 
 MagLock is the entrance controller hardware. It features:
 
